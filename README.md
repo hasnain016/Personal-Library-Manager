@@ -1,4 +1,4 @@
-# Futuristic Library Manager
+# Personal Library Manager
 
 A modern, 3D-styled personal library manager built with Streamlit. This application allows you to manage your book collection with a sleek, futuristic interface.
 
@@ -7,7 +7,7 @@ A modern, 3D-styled personal library manager built with Streamlit. This applicat
 - 📊 Interactive 3D visualization of your book collection
 - 📚 Add, view, and delete books
 - 📈 Comprehensive statistics and analytics
-- 🎨 Modern, futuristic UI with dark theme
+- 🎨 Modern, futuristic UI
 - 💾 Persistent storage using JSON
 
 ## Installation
